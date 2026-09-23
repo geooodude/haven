@@ -107,6 +107,10 @@ unlinked_spec.ds
 # Coverage
 coverage/
 
+# Environment & Firebase (generated locally per developer)
+.env
+lib/firebase_options.dart
+
 # Symbols
 app.*.symbols
 
